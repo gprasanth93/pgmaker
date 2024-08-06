@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Millicent";
+  src: local("Millicent"),
+    url("../src/fonts/Millicent-m2llv.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Beiamox";
+  src: local("Beiamox"),
+    url("../src/fonts/Beiamox-2v43o.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "AdventPro-SemiBold";
+  src: local("AdventPro-SemiBold"),
+    url("../src/fonts/AdventPro-SemiBold.ttf") format("truetype");
+}
